@@ -1,5 +1,6 @@
 ## Named Entity Recognition on free text
-A solution using Hugging Face's Transformers library and BERT to perform NER or any other text classification on given sentences.
+A solution using Hugging Face's Transformers library and BERT to perform NER on given sentences.
+![Cover](static/cover.png?raw=true "Cover")
 
 ### Pre-requisites:
 
