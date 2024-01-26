@@ -1,5 +1,5 @@
-## Named entity recognition using Redis
-A solution using Hugging Face's Transformers library to perform NER or any other text classification on given sentences.
+## Named entity recognition on free text
+A solution using Hugging Face's Transformers library and BERT to perform NER or any other text classification on given sentences.
 
 ### Pre-requisites:
 
